@@ -1,4 +1,4 @@
-GET {{host}}/hello-resteasy
+GET {{host}}/hello
 
 ###
 
